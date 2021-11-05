@@ -19,8 +19,8 @@ fetchBreedDescription(breedName, (error, desc) => {
 //       console.log("error has occured")
 //        console.log(error)
     
-//   } else if(breed) { 
-//    console.log(breed.description) 
+//   } else if(breed) {
+//    console.log(breed.description)
 //   } else  {
 //   console.log('breed doesnt exist')
 //   }
